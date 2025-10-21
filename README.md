@@ -99,16 +99,11 @@ Product Forecast in Excel.xlsx   : Excel workbook with models and outputs
 
 ## **6. How to Use**
 
-### **Option 1: Open in Excel**
-
-1. Download and open **Product Forecast in Excel.xlsx**.
-2. Review each sheet:
+1. Click the Excel file **Product Forecast in Excel.xlsx**.
+2. Choose **View raw**. The file will be automatically downloaded to your computer.
+3. Review each sheet:
 
    * **Overview:** Source data
    * **Linear Reg:** Simple time-based model
    * **Multi Reg:** Multiple regression with price and market variable (Home Sales)
    * **Seasonality modeling:** Seasonal regression with binary month variables
-
-### **Option 2: View in GitHub**
-
-* Click the Excel file in this repository to preview the model structure.
