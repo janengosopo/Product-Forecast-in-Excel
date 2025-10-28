@@ -99,7 +99,7 @@ Product Forecast in Excel.xlsx   : Excel workbook with models and outputs
 
 ## **6. How to Use**
 
-1. Click the Excel file **Product Forecast in Excel.xlsx**.
+1. Click the Excel file **Product forecast.xlsx**.
 2. Choose **View raw**. The file will be automatically downloaded to your computer.
 3. Review each sheet:
 
